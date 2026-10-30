@@ -1,0 +1,10 @@
+{
+  "dataset_sha256": "3070535bfa747261a97901018a6c9391ac97356cba1c4fd9dd63c99e5f15763b",
+  "notebook_sha256": "018af6b6ac71a06931918256b0b5982e3bd9346e7f9f19beda6d4d29d3af1d2a",
+  "rows": 84922,
+  "features": 15,
+  "folds": 12,
+  "source": "finished_assignment_corrected.ipynb",
+  "metrics_precision": "Metrics extracted from saved notebook tables (six decimal places).",
+  "runtime": "Python: 3.12.14\npandas 2.2.3\nnumpy 2.3.5\nscikit-learn 1.8.0\ntensorflow distribution name unavailable; imported successfully\nmatplotlib 3.10.8\nseaborn 0.13.2\n"
+}

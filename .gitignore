@@ -1,0 +1,22 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# Source dataset: provenance / redistribution license not yet documented
+data/oral_cancer_prediction_dataset.csv
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Generated local archives
+*.zip

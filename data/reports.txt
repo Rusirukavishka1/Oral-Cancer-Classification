@@ -1,0 +1,40 @@
+Logistic Regression — pooled out-of-fold classification report
+              precision    recall  f1-score   support
+
+   No Cancer       0.50      0.63      0.56     42573
+      Cancer       0.49      0.36      0.42     42349
+
+    accuracy                           0.50     84922
+   macro avg       0.50      0.50      0.49     84922
+weighted avg       0.50      0.50      0.49     84922
+
+ANN — pooled out-of-fold classification report
+              precision    recall  f1-score   support
+
+   No Cancer       0.50      0.62      0.55     42573
+      Cancer       0.50      0.38      0.43     42349
+
+    accuracy                           0.50     84922
+   macro avg       0.50      0.50      0.49     84922
+weighted avg       0.50      0.50      0.49     84922
+
+Decision Tree — pooled out-of-fold classification report
+              precision    recall  f1-score   support
+
+   No Cancer       0.50      1.00      0.67     42573
+      Cancer       0.00      0.00      0.00     42349
+
+    accuracy                           0.50     84922
+   macro avg       0.25      0.50      0.33     84922
+weighted avg       0.25      0.50      0.33     84922
+
+Random Forest — pooled out-of-fold classification report
+              precision    recall  f1-score   support
+
+   No Cancer       0.50      0.53      0.51     42573
+      Cancer       0.50      0.48      0.49     42349
+
+    accuracy                           0.50     84922
+   macro avg       0.50      0.50      0.50     84922
+weighted avg       0.50      0.50      0.50     84922
+
